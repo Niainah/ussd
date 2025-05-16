@@ -1,13 +1,23 @@
 # Simulation USSD Telma Yas
 
-Projet Python simulant le menu *111# de Telma Madagascar.
+Simulation du menu *111# de Telma Madagascar en Python.
 
-## Fonctionnalités
-- Consultation de solde
-- Transfert de crédit
-- Gestion des forfaits
-- Services bancaires
+## Fonctionnalités Principales
+- Consultation de solde (crédit et data)
+- Transfert de crédit sécurisé
+- Gestion des forfaits (Internet, Appels, SMS)
+- Services bancaires (paiements, transferts)
+- Services Yas (musique, jeux, actualités)
 
+## Prérequis
+- Python 3.x
+- Aucune dépendance externe (pure Python)
+
+## Utilisation
+```bash
+python ussd_telma.py
+```
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
