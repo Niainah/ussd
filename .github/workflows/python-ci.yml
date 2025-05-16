@@ -25,4 +25,4 @@ jobs:
         
     - name: Run Python script
       run: |
-        python src/telma_ussd.py
+        python src/ussd.py
