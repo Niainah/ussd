@@ -1,0 +1,41 @@
+# Fichiers générés par Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+.env/
+.venv/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de cache et logs
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers de sortie et builds
+dist/
+build/
+*.egg-info/
+
+# Fichiers de données personnelles
+*.db
+*.sqlite
+*.env
+
+# Fichiers spécifiques macOS
+.DS_Store
+
+# Fichiers spécifiques Windows
+Thumbs.db
+
+# Fichiers de Pylint (si vous voulez ignorer les rapports)
+pylint_report.txt
+
+# Fichiers de test temporaires
+test_output/
